@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Associate Researcher, HIAS, UCAS
 
 profile:
   align: right
@@ -17,18 +17,22 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Chi Shengqiang**
+Associate Research Fellow & Master's Supervisor
+School of Intelligence Science and Technology, Hangzhou Institute for Advanced Study (HIAS), University of Chinese Academy of Sciences (UCAS)
+Dr. Chi is selected for the Zhejiang Provincial Special Support Program for High-Level Talents (Young Talents). He currently serves as a committee member of the Digital Healthcare and Medical Informatics Branch of the Chinese Society of Biomedical Engineering. His primary research interests include medical artificial intelligence, large models and agents, and AI for science. He has presided over multiple research projects, including grants from the National Natural Science Foundation of China, the Provincial Natural Science Foundation, and sub-projects under the Provincial "Jianbing Lingyan+X" R&D Plan. He has published over 30 academic papers as the first author in prestigious journals such as IEEE JBHI and AIIM. Additionally, he participated in the formulation of the world's first ISO international standard for multi-center clinical data collaborative analysis (ISO/AWI TS 9321, released in June 2024). He holds over 40 authorized domestic and international invention patents, and his research achievements have been awarded the First Prize of Zhejiang Provincial Science and Technology Progress Award.
+Research Directions:
+Multimodal Medical Data Fusion: Focusing on robust representation and dynamic fusion of imaging, pathology, and text data to support disease modeling and risk prediction.
+Precision Oncology Computing: Leveraging multi-omics, pathology, imaging, and electronic medical record data to study tumor microenvironment modeling and cross-scale precision analysis methods, addressing key challenges in intelligent cancer subtype identification and treatment response prediction.
+Clinically Explainable AI: Exploring medical large models and multi-agent collaborative reasoning to enhance decision transparency and clinical usability in complex scenarios.
+Prospective undergraduate students, graduate students, and postdocs interested in these research areas are welcome to join the research group! Applicants with backgrounds in medicine, biomedical engineering, computer science, AI, bioinformatics, data science, or related fields are encouraged to apply. The laboratory offers abundant clinical collaboration resources and data, ample computing power, and supports participation in academic exchanges.
